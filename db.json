@@ -1,0 +1,7 @@
+{
+  "items":[{
+    coupon: "12345",
+    couponValue: "10%",
+    isInternational: false
+  }]
+}
